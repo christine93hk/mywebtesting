@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+
+Votre message a bien été envoyé.
+
+MESSAGE : {message}
+
+Nous vous répondrons dés que possible. 
+
+{shop_name} [{shop_url}] 
+

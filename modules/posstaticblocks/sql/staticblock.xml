@@ -1,0 +1,410 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>6</id_posstaticblock>
+		<identify>static_box_left</identify>
+		<hook_position>leftColumn</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>7</id_posstaticblock>
+		<identify>static_box_top</identify>
+		<hook_position>bannerSequence</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>8</id_posstaticblock>
+		<identify>static_box_center</identify>
+		<hook_position>blockPosition2</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>9</id_posstaticblock>
+		<identify>static_box_bottom</identify>
+		<hook_position>blockPosition3</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>10</id_posstaticblock>
+		<identify>static_category</identify>
+		<hook_position>blockPosition3</hook_position>
+		<name_module></name_module>
+		<hook_module></hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+<!-- block lang configuration -->
+	<block_lang>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Box Left</title>
+		<description>
+			 <![CDATA[<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms15.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Get up to 20%</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Static Box Left</title>
+		<description>
+			 <![CDATA[<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms15.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Get up to 20%</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Box Top</title>
+		<description>
+			 <![CDATA[<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-4">
+<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms11.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Mens Shoes</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms12.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Womens Fashion</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms13.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Mens Fashion</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>
+</div>
+</div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Static Box Top</title>
+		<description>
+			 <![CDATA[<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-4">
+<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms11.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Mens Shoes</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms12.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Womens Fashion</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="static_top">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms13.jpg" alt="" /></div>
+<div class="txt_content">
+<h4>Mens Fashion</h4>
+<a href="http://posthemes.com/">Shop Now</a></div>
+</div>
+</div>
+</div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Box Center</title>
+		<description>
+			 <![CDATA[<div class="container">
+<div class="static_center">
+<div class="row">
+<div class="hidden-xs col-sm-6">
+<div class="static_center_inner">
+<h3 class="title1">The best cosmetics</h3>
+<h3 class="title2">SIGN UP FOR OUR DISCOUNTS</h3>
+<h3 class="title3"><span class="txt2">75%</span> <span class="txt1">UP TO</span></h3>
+</div>
+</div>
+</div>
+<a class="lnk_more" href="http://posthemes.com/">shop now</a></div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Static Box Center</title>
+		<description>
+			 <![CDATA[<div class="container">
+<div class="static_center">
+<div class="row">
+<div class="hidden-xs col-sm-6">
+<div class="static_center_inner">
+<h3 class="title1">The best cosmetics</h3>
+<h3 class="title2">SIGN UP FOR OUR DISCOUNTS</h3>
+<h3 class="title3"><span class="txt2">75%</span> <span class="txt1">UP TO</span></h3>
+</div>
+</div>
+</div>
+<a class="lnk_more" href="http://posthemes.com/">shop now</a></div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Box Bottom</title>
+		<description>
+			 <![CDATA[<div class="static_bottom">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-md-4">
+<div class="static_bottom_in">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms16.png" alt="" /></div>
+<h4>WORLDWIDE SHIPPING</h4>
+</div>
+</div>
+<div class="col-xs-12 col-md-4">
+<div class="static_bottom_in">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms17.png" alt="" /></div>
+<h4>100% MONEY BACK GUARANTEE</h4>
+</div>
+</div>
+<div class="col-xs-12 col-md-4">
+<div class="static_bottom_in">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms18.png" alt="" /></div>
+<h4>ONLINE SUPPORT 24/7</h4>
+</div>
+</div>
+</div>
+</div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Static Box Bottom</title>
+		<description>
+			 <![CDATA[<div class="static_bottom">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-md-4">
+<div class="static_bottom_in">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms16.png" alt="" /></div>
+<h4>WORLDWIDE SHIPPING</h4>
+</div>
+</div>
+<div class="col-xs-12 col-md-4">
+<div class="static_bottom_in">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms17.png" alt="" /></div>
+<h4>100% MONEY BACK GUARANTEE</h4>
+</div>
+</div>
+<div class="col-xs-12 col-md-4">
+<div class="static_bottom_in">
+<div class="img_content"><img class="img-responsive" src="/pos_wendy/img/cms/cms18.png" alt="" /></div>
+<h4>ONLINE SUPPORT 24/7</h4>
+</div>
+</div>
+</div>
+</div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Static Category</title>
+		<description>
+			 <![CDATA[<div class="static_category">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="title_block">
+<h2>POPULAR CATEGORIES</h2>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate11.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">MEN</h3>
+<a class="cate_lnk" href="#">Fashion</a> <a class="cate_lnk" href="#">Cosmetics</a> <a class="cate_lnk" href="#">Handbags</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate12.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">KIDS</h3>
+<a class="cate_lnk" href="#">Accessories</a> <a class="cate_lnk" href="#">Fashion</a> <a class="cate_lnk" href="#">Handbags</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate13.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">ELECTRONIC</h3>
+<a class="cate_lnk" href="#">Cooker</a> <a class="cate_lnk" href="#">Televisions</a> <a class="cate_lnk" href="#">Refrigeration</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate14.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">INTERIOR</h3>
+<a class="cate_lnk" href="#">Bedroom</a> <a class="cate_lnk" href="#">Bathroom</a> <a class="cate_lnk" href="#">Kitchen</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate15.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">TOYS</h3>
+<a class="cate_lnk" href="#">Sports</a> <a class="cate_lnk" href="#">Smart Toys</a> <a class="cate_lnk" href="#">Boys</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate16.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">WOMEN</h3>
+<a class="cate_lnk" href="#">Accessories</a> <a class="cate_lnk" href="#">Cosmetics</a> <a class="cate_lnk" href="#">Handbags</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Static Category</title>
+		<description>
+			 <![CDATA[<div class="static_category">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="title_block">
+<h2>POPULAR CATEGORIES</h2>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate11.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">MEN</h3>
+<a class="cate_lnk" href="#">Fashion</a> <a class="cate_lnk" href="#">Cosmetics</a> <a class="cate_lnk" href="#">Handbags</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate12.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">KIDS</h3>
+<a class="cate_lnk" href="#">Accessories</a> <a class="cate_lnk" href="#">Fashion</a> <a class="cate_lnk" href="#">Handbags</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate13.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">ELECTRONIC</h3>
+<a class="cate_lnk" href="#">Cooker</a> <a class="cate_lnk" href="#">Televisions</a> <a class="cate_lnk" href="#">Refrigeration</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate14.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">INTERIOR</h3>
+<a class="cate_lnk" href="#">Bedroom</a> <a class="cate_lnk" href="#">Bathroom</a> <a class="cate_lnk" href="#">Kitchen</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate15.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">TOYS</h3>
+<a class="cate_lnk" href="#">Sports</a> <a class="cate_lnk" href="#">Smart Toys</a> <a class="cate_lnk" href="#">Boys</a></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="cate_content">
+<div class="pull-right"><img class="img-responsive" src="/pos_wendy/img/cms/cate16.jpg" alt="" /></div>
+<div class="content">
+<h3 class="sm_title">WOMEN</h3>
+<a class="cate_lnk" href="#">Accessories</a> <a class="cate_lnk" href="#">Cosmetics</a> <a class="cate_lnk" href="#">Handbags</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>]]>
+		</description>
+	</block_lang>
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>8</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>9</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>10</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>
